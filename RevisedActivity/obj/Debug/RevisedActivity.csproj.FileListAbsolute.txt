@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\RevisedActivity\RevisedActivity\obj\Debug\RevisedActivity.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RevisedActivity\RevisedActivity\obj\Debug\RevisedActivity.csproj.CoreCompileInputs.cache

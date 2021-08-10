@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\RevisedActivity\RevisedActivityDTO\bin\Debug\RevisedActivityDTO.dll
+C:\Users\hp\source\repos\RevisedActivity\RevisedActivityDTO\bin\Debug\RevisedActivityDTO.pdb
+C:\Users\hp\source\repos\RevisedActivity\RevisedActivityDTO\obj\Debug\RevisedActivityDTO.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RevisedActivity\RevisedActivityDTO\obj\Debug\RevisedActivityDTO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RevisedActivity\RevisedActivityDTO\obj\Debug\RevisedActivityDTO.dll
+C:\Users\hp\source\repos\RevisedActivity\RevisedActivityDTO\obj\Debug\RevisedActivityDTO.pdb
